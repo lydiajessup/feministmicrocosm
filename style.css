@@ -1,4 +1,25 @@
 body {
-  background: yellow;
+  background: hotpink;
   color: blue;
+  margin: 0;
+  padding: 20px;
+  font-family: monospace;
+}
+
+img {
+  display: block;
+  max-width: 300px;
+}
+
+
+h1 {
+  font-size: 3em;
+}
+
+p {
+  font-size: 2em;
+}
+
+a {
+  font-weight: bold;
 }
